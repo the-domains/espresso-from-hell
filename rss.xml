@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Espresso From Hell - electro-jazz duo from Switzerland]]></title>
         <description><![CDATA[Espresso From Hell - electro-jazz duo from Switzerland]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/espresso-from-hell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 15:24:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 15:29:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/espresso-from-hell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Espresso - The Band]]></title>
             <description><![CDATA[<article><h1>Espresso - The Band</h1><p>The band</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cecab24-b587-486b-a80a-0f4088f81c24.JPG"></article>]]></description>
-            <link>undefinedespresso-the-band/index.html</link>
+            <link>https://thegrid.ai/espresso-from-hell/espresso-the-band/index.html</link>
             <guid isPermaLink="false">fa1dda74-fde8-4b63-bfc9-3e0b1f340a72</guid>
-            <pubDate>Thu, 24 Dec 2015 15:24:52 GMT</pubDate>
+            <pubDate>Thu, 24 Dec 2015 15:28:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
