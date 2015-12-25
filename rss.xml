@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Espresso From Hell - electro-jazz duo from Switzerland]]></title>
-        <description><![CDATA[Espresso From Hell - electro-jazz duo from Switzerland]]></description>
+        <title><![CDATA[Espresso From Hell]]></title>
+        <description><![CDATA[Espresso From Hell]]></description>
         <link>https://thegrid.ai/espresso-from-hell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 15:29:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2015 09:55:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/espresso-from-hell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Espresso - The Band]]></title>
-            <description><![CDATA[<article><h1>Espresso - The Band</h1><p>The band</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cecab24-b587-486b-a80a-0f4088f81c24.JPG"></article>]]></description>
+            <description><![CDATA[<article><h1>Espresso - The Band</h1><p>Bass and Voice encounter, spiced up with some loopers
+flavour, Espresso From Hell plays jazz and pop songs in it's own original way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6adb256695717d94e2265c9a34fad3bcd3f24608.jpg"></article>]]></description>
             <link>https://thegrid.ai/espresso-from-hell/espresso-the-band/index.html</link>
             <guid isPermaLink="false">fa1dda74-fde8-4b63-bfc9-3e0b1f340a72</guid>
-            <pubDate>Thu, 24 Dec 2015 15:28:52 GMT</pubDate>
+            <pubDate>Fri, 25 Dec 2015 09:55:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
