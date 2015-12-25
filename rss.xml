@@ -4,11 +4,11 @@
         <description><![CDATA[Espresso From Hell]]></description>
         <link>https://thegrid.ai/espresso-from-hell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 10:05:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Dec 2015 10:08:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/espresso-from-hell/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Eleanor Rigby]]></title>
-            <description><![CDATA[<article><h1>Eleanor Rigby</h1><p>Eleanor Rigby words and music by John Lennon and Paul McCartney arranged by Espresso From Hell</p></article>]]></description>
+            <description><![CDATA[<article><h1>Eleanor Rigby</h1><p>Eleanor Rigby words and music by John Lennon and Paul McCartney arranged by Espresso From Hell</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb3c825c476050ac85d5b3ce388df997edfdd028.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=TD6kA3i6wQw&amp;feature=youtu.be</link>
             <guid isPermaLink="false">449caf75-1fc3-4ce5-a7a8-f642839af5f7</guid>
             <pubDate>Fri, 25 Dec 2015 10:04:40 GMT</pubDate>
@@ -19,14 +19,6 @@
             <link>https://www.youtube.com/watch?v=okhyqqYWWMQ&amp;feature=youtu.be</link>
             <guid isPermaLink="false">a862985a-6f7d-4444-b1d4-1d8c487ee38b</guid>
             <pubDate>Fri, 25 Dec 2015 10:04:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Espresso - The Band]]></title>
-            <description><![CDATA[<article><h1>Espresso - The Band</h1><p>Bass and Voice encounter, spiced up with some loopers
-flavour, Espresso From Hell plays jazz and pop songs in it's own original way.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6adb256695717d94e2265c9a34fad3bcd3f24608.jpg"></article>]]></description>
-            <link>https://thegrid.ai/espresso-from-hell/espresso-the-band/index.html</link>
-            <guid isPermaLink="false">fa1dda74-fde8-4b63-bfc9-3e0b1f340a72</guid>
-            <pubDate>Fri, 25 Dec 2015 09:55:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
