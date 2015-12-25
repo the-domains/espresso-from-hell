@@ -16,20 +16,20 @@ keywords:
   - loopers
   - download
 description: "Espresso From Hell Bass and Voice encounter, spiced up with some loopers flavour, Espresso From Hell plays jazz and pop songs in it's own original way. What else ? Espresso From Hell, released 17 January 2015 1. Eleanor Rigby 2. Another Part Of Me 3. King Of Pain 4."
-datePublished: '2015-12-25T10:06:13.505Z'
-dateModified: '2015-12-25T10:04:58.902Z'
+datePublished: '2015-12-25T10:42:50.510Z'
+dateModified: '2015-12-25T10:42:47.290Z'
 author: []
 related: []
 app_links: []
 title: Espressounds From Hell
+sourcePath: _posts/2015-12-25-espressounds-from-hell.md
+published: true
 authors: []
 publisher:
   name: BandCamp
   domain: espressofromhell.bandcamp.com
   url: 'http://bandcamp.com'
   favicon: 'https://f1.bcbits.com/img/a0305910520_3.jpg'
-sourcePath: _posts/2015-12-25-espressounds-from-hell.md
-published: true
 url: espressounds-from-hell/index.html
 _context: 'http://schema.org'
 _type: MediaObject
