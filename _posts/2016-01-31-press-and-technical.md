@@ -16,8 +16,8 @@ keywords:
   - artist
   - tour
 description: 'Hi-res pics, tour dates and technical rider'
-datePublished: '2016-01-31T19:11:41.265Z'
-dateModified: '2016-01-31T19:11:38.561Z'
+datePublished: '2016-01-31T19:11:57.021Z'
+dateModified: '2016-01-31T19:11:53.826Z'
 author: []
 related: []
 app_links:
