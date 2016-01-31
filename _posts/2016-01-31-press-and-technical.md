@@ -16,8 +16,8 @@ keywords:
   - artist
   - tour
 description: 'Hi-res pics, tour dates and technical rider'
-datePublished: '2016-01-31T19:10:58.205Z'
-dateModified: '2016-01-31T19:10:54.858Z'
+datePublished: '2016-01-31T19:11:41.262Z'
+dateModified: '2016-01-31T19:11:38.561Z'
 author: []
 related: []
 app_links:
@@ -25,7 +25,7 @@ app_links:
     type: ios
     app_store_id: '438690886'
     app_name: Songkick Concerts
-title: Rider
+title: 'Press & Technical'
 sourcePath: _posts/2016-01-31-press-and-technical.md
 published: true
 authors: []
@@ -39,7 +39,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Rider
+## Rider
 
 Get our [Tech rider][0]
 
