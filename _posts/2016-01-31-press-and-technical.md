@@ -16,8 +16,8 @@ keywords:
   - artist
   - tour
 description: 'Hi-res pics, tour dates and technical rider'
-datePublished: '2016-01-31T12:15:30.060Z'
-dateModified: '2016-01-31T12:15:27.548Z'
+datePublished: '2016-01-31T19:01:01.117Z'
+dateModified: '2016-01-31T19:00:55.303Z'
 author: []
 related: []
 app_links:
@@ -39,10 +39,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-## Songkick
-
-<article style=""><h1>SongKick</h1><p>Find out when Espresso From Hell is next playing live near you. List of all Espresso From Hell tour dates and concerts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faee486617e8a1b391874d135568c91ebc427de7.jpg" /></article>
-
 ## Rider
 
 Get our [Tech rider][0]
