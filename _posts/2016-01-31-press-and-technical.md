@@ -16,8 +16,8 @@ keywords:
   - artist
   - tour
 description: 'Hi-res pics, tour dates and technical rider'
-datePublished: '2016-01-31T19:01:01.117Z'
-dateModified: '2016-01-31T19:00:55.303Z'
+datePublished: '2016-01-31T19:04:07.501Z'
+dateModified: '2016-01-31T19:04:04.696Z'
 author: []
 related: []
 app_links:
@@ -25,7 +25,7 @@ app_links:
     type: ios
     app_store_id: '438690886'
     app_name: Songkick Concerts
-title: 'Press & technical'
+title: Rider
 sourcePath: _posts/2016-01-31-press-and-technical.md
 published: true
 authors: []
@@ -39,9 +39,13 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-## Rider
+# Rider
 
 Get our [Tech rider][0]
+
+## Tour dates
+
+Click [here][1] to view and subscribe to our tour dates on SongKick
 
 ## Pics
 
@@ -53,3 +57,4 @@ Click on the pictures to view (and download) them in hi-res
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c214af2d-d7e9-46a5-8ee8-bb000ec39989.jpg)
 
 [0]: http://booking.cheesecom.com/efh/Stageplan-patchlist-efh.pdf
+[1]: http://www.songkick.com/artists/8480653
