@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=TD6kA3i6wQw&feature=youtu.be'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - duration
   - rigby
@@ -17,8 +17,8 @@ keywords:
   - espressofromhell
   - azlivevideo
 description: Eleanor Rigby words and music by John Lennon and Paul McCartney arranged by Espresso From Hell
-datePublished: '2015-12-25T10:04:40.882Z'
-dateModified: '2015-12-25T10:03:32.815Z'
+datePublished: '2016-01-31T20:37:48.182Z'
+dateModified: '2016-01-31T20:37:46.178Z'
 author:
   - name: Espresso From Hell
     url: 'https://www.youtube.com/channel/UCtRY9Y12JqWcyLOYtzeUGTA'
