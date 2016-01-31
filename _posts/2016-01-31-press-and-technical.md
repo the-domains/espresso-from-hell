@@ -15,9 +15,9 @@ keywords:
   - tickets
   - artist
   - tour
-description: ''
-datePublished: '2016-01-31T12:12:29.231Z'
-dateModified: '2016-01-31T12:12:15.270Z'
+description: 'Hi-res pics, tour dates and technical rider'
+datePublished: '2016-01-31T12:15:29.976Z'
+dateModified: '2016-01-31T12:15:27.548Z'
 author: []
 related: []
 app_links:
@@ -26,14 +26,14 @@ app_links:
     app_store_id: '438690886'
     app_name: Songkick Concerts
 title: 'Press & technical'
+sourcePath: _posts/2016-01-31-press-and-technical.md
+published: true
 authors: []
 publisher:
   name: Songkick
   domain: www.songkick.com
   url: 'http://www.songkick.com'
   favicon: 'http://assets.sk-static.com/images/favicon.ico'
-sourcePath: _posts/2016-01-31-press-and-technical.md
-published: true
 url: press-and-technical/index.html
 _context: 'http://schema.org'
 _type: MediaObject
@@ -41,9 +41,11 @@ _type: MediaObject
 ---
 ## Songkick
 
-<article style=""><h1>SongKick</h1><img src="http://images.sk-static.com/images/media/img/col4/20150406-200452-200259.jpg" /></article>
+<article style=""><h1>SongKick</h1><p>Find out when Espresso From Hell is next playing live near you. List of all Espresso From Hell tour dates and concerts.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/faee486617e8a1b391874d135568c91ebc427de7.jpg" /></article>
 
-[Tech rider][0]
+## Rider
+
+Get our [Tech rider][0]
 
 ## Pics
 
