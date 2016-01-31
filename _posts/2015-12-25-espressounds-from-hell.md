@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://espressofromhell.bandcamp.com/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - loopers
   - download
 description: "Espresso From Hell Bass and Voice encounter, spiced up with some loopers flavour, Espresso From Hell plays jazz and pop songs in it's own original way. What else ? Espresso From Hell, released 17 January 2015 1. Eleanor Rigby 2. Another Part Of Me 3. King Of Pain 4."
-datePublished: '2016-01-31T20:34:24.029Z'
-dateModified: '2016-01-31T20:34:20.784Z'
+datePublished: '2016-01-31T20:42:17.794Z'
+dateModified: '2016-01-31T20:42:15.015Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: espressofromhell.bandcamp.com
   url: 'http://bandcamp.com'
   favicon: 'https://f1.bcbits.com/img/a0305910520_3.jpg'
+url: espressounds-from-hell/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -39,18 +39,10 @@ _type: MediaObject
 
 Here you can listen (and buy ??;-)) our latest release. What else ? 
 
-* Eleanor Rigby
-* Another Part Of Me
-* King Of Pain
-* Video Games
-* Everybody's Gotta Learn Sometimes
-* Afro Blue
-* Teardrop
-
-## What guys say
-
-> Fantastic playlist guys...such a fresh and vibrant re-imagining of such classic tunes..particularly loving how stripped-back and graceful you perform the Lana del Ray track....just a gorgeous version!
-
-> "Eleanor Rigby" - great work! Best wishes, Egon Erger
-
-> One word: Yeaaaaah! Best wishes from Cologne -- Versu
+1\. Eleanor Rigby  
+2\. Another Part Of Me  
+3\. King Of Pain  
+4\. Video Games  
+5\. Everybody's Gotta Learn Sometimes  
+6\. Afro Blue  
+7\. Teardrop
