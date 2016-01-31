@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Bass and Voice encounter, spiced up with some loopers flavour, Espresso From Hell plays jazz and pop songs in it's own original way.  Everything started some years ago when Brigitte and Pierre, long time friends, decided to play in duo \"just for fun\". It went so well that despite the lack of free time it leaded to an album in 2015. What else ?"
-datePublished: '2016-01-31T11:55:37.690Z'
+datePublished: '2016-01-31T11:55:37.743Z'
 dateModified: '2016-01-31T11:55:34.646Z'
 title: Espresso - The Band
 author: []
