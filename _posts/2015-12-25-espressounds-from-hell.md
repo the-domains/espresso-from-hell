@@ -16,8 +16,8 @@ keywords:
   - loopers
   - download
 description: "Espresso From Hell Bass and Voice encounter, spiced up with some loopers flavour, Espresso From Hell plays jazz and pop songs in it's own original way. What else ? Espresso From Hell, released 17 January 2015 1. Eleanor Rigby 2. Another Part Of Me 3. King Of Pain 4."
-datePublished: '2016-01-28T12:35:42.002Z'
-dateModified: '2016-01-28T12:35:32.526Z'
+datePublished: '2016-01-31T11:47:30.682Z'
+dateModified: '2016-01-31T11:47:28.068Z'
 author: []
 related: []
 app_links: []
@@ -46,3 +46,11 @@ Here you can listen (and buy ??;-)) our latest release. What else ?
 * Everybody's Gotta Learn Sometimes
 * Afro Blue
 * Teardrop
+
+## What guys say
+
+> Fantastic playlist guys...such a fresh and vibrant re-imagining of such classic tunes..particularly loving how stripped-back and graceful you perform the Lana del Ray track....just a gorgeous version!
+
+> "Eleanor Rigby" - great work! Best wishes, Egon Erger
+
+> One word: Yeaaaaah! Best wishes from Cologne -- Versu
