@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-31T20:43:11.211Z'
-dateModified: '2016-01-31T20:42:59.295Z'
+datePublished: '2016-01-31T20:47:18.470Z'
+dateModified: '2016-01-31T20:47:16.281Z'
 title: What guys say
 author: []
+sourcePath: _posts/2016-01-31-what-guys-say.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-31-what-guys-say.md
-published: true
 _type: Blurb
 
 ---
