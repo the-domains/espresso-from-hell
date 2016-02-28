@@ -4,8 +4,15 @@
         <description><![CDATA[Espresso From Hell - electro-jazz duo from Switzerland]]></description>
         <link>https://thegrid.ai/espresso-from-hell/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 28 Feb 2016 18:58:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Feb 2016 19:05:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/espresso-from-hell/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What guys say]]></title>
+            <description><![CDATA[<h1>What guys say</h1>]]></description>
+            <link>https://thegrid.ai/espresso-from-hell/what-guys-say/index.html</link>
+            <guid isPermaLink="false">f6747690-a48e-4ef4-8832-e3156fb4feff</guid>
+            <pubDate>Sun, 28 Feb 2016 19:05:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Presskit]]></title>
             <description><![CDATA[<article><h1>Presskit</h1><p>Get our presskit by clicking on the image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ad5fbb5e98894d4728e95eeac3da81b74d47293.jpg"></article>]]></description>
