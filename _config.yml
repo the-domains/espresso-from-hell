@@ -1,6 +1,6 @@
 name: Espresso From Hell
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.25174
 typography_spectrum: 0.28167
 title: Espresso From Hell - electro-jazz duo from Switzerland
 cta:
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.625
   saturation: 0.375
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
