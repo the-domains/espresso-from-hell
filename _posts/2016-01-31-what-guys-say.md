@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-28T19:05:35.304Z'
-dateModified: '2016-02-28T18:58:05.008Z'
+datePublished: '2016-02-29T09:54:59.896Z'
+dateModified: '2016-02-29T09:54:49.881Z'
 title: What guys say
 author: []
 sourcePath: _posts/2016-01-31-what-guys-say.md
