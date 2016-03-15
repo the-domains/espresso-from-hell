@@ -15,9 +15,9 @@ keywords:
   - bass
   - loopers
   - download
-description: "Here you can listen (and buy ??;-)) our latest release. What else ?\_"
-datePublished: '2016-03-15T12:54:18.543Z'
-dateModified: '2016-03-15T12:54:15.526Z'
+description: "Here you can listen (and buy !! ;-) ) our latest release. What else ?\_"
+datePublished: '2016-03-15T12:55:45.795Z'
+dateModified: '2016-03-15T12:55:43.038Z'
 author: []
 related: []
 app_links: []
