@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-06-27T19:21:54.753Z'
+datePublished: '2016-06-27T19:24:55.774Z'
 sourcePath: _posts/2015-12-24-espresso-the-band.md
 inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-27T19:21:51.271Z'
+dateModified: '2016-06-27T19:24:49.478Z'
 title: The band
 publisher: null
 description: >-
@@ -25,8 +25,6 @@ Bass and Voice encounter, spiced up with some loopers flavour, Espresso From Hel
 
 Everything started some years ago when Brigitte and Pierre, long time friends, decided to play in duo "just for fun". It went so well that despite the lack of free time it leaded to an album in 2015\.  
 What else ?
-
-EFH is :
 
 ## Brigitte Savoy - voice an loopers
 ![Brigitte Savoy - voice an loopers](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a608a0d-2178-4b77-9ba7-c64b86667285.jpg)
