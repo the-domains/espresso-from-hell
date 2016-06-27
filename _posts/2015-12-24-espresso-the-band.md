@@ -1,19 +1,19 @@
 ---
+datePublished: '2016-06-27T19:18:14.723Z'
+sourcePath: _posts/2015-12-24-espresso-the-band.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
+author: []
+dateModified: '2016-06-27T19:18:04.091Z'
+title: The band
+publisher: null
 description: >-
   Bass and Voice encounter, spiced up with some loopers flavour, Espresso From
   Hell plays jazz and pop songs in it's own original way.
-datePublished: '2016-06-27T19:13:26.447Z'
-dateModified: '2016-06-27T19:13:20.082Z'
-sourcePath: _posts/2015-12-24-espresso-the-band.md
-author: []
-title: The band
-authors: []
-publisher: null
+inLanguage: null
+inNav: true
 starred: false
 url: espresso-the-band/index.html
 _type: WebPage
@@ -26,15 +26,9 @@ Everything started some years ago when Brigitte and Pierre, long time friends, d
 What else ?
 
 EFH is :
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a608a0d-2178-4b77-9ba7-c64b86667285.jpg)
-
-## 
-
-## Brigitte Savoy - voice and loopers
+![Brigitte Savoy - voice an loopers](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a608a0d-2178-4b77-9ba7-c64b86667285.jpg)
 
 She started her musical career as singer in small pop-rock bands. Quickly she bacame interested in jazz and attended the general classes of the Conservatoire de Montreux and then the qulifying classes of the Swiss Jazz School. It logically leaded to a Master Of Arts at the Haute Ecole de Musique (HEMu) de Lausanne. She is now teaching while leading her own projets (Hello Bridget, Bee's Grit, EFH). She is also often hired as backing vocalist (Dolly Chance, Gallavin, etc.).
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3473de8667be20773b483b6e03bc6f8b6bbc8c0a.jpg)
-
-## Pierre Sottas - bass and loopers
+![Pierre Sottas - bass and loopers](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1b06037-218a-4608-bb46-a653dce5321f.jpg)
 
 Bass player, teacher, arranger, producer, he plays all around Switzerland and Europe in a lot of different styles. Main projects : i.Trio, Espresso From Hell, Montreux Jazz On The Road Band, Gallavin (arranger, producer, bass),Time Grid, Papapitufo, Loraine Cotting, ... He has played with Billy Cobham, Adam Nussbaum, Jacob Collier, Jerry Léonide, Claude Diallo, Sabine Kühlich, Gaël Rakotondrabé, Fred Bintner, Federico Casagrande, ...
