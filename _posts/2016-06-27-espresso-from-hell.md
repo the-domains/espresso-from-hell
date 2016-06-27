@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-06-27T07:12:34.685Z'
+datePublished: '2016-06-27T08:02:45.647Z'
+sourcePath: _posts/2016-06-27-espresso-from-hell.md
 isBasedOnUrl: 'https://www.songkick.com/artists/8480653-espresso-from-hell'
 keywords:
   - ashburn
@@ -14,7 +15,7 @@ keywords:
   - avenue
 related: []
 author: []
-dateModified: '2016-06-27T07:11:21.404Z'
+dateModified: '2016-06-27T08:02:21.085Z'
 title: Espresso From Hell
 app_links:
   - url: 'songkick://artists/8480653-espresso-from-hell'
@@ -27,12 +28,9 @@ publisher:
   name: Songkick
   favicon: 'http://assets.sk-static.com/images/favicon.ico'
   domain: www.songkick.com
-description: >-
-  Buy tickets for an upcoming Espresso From Hell concert near you. List of all
-  Espresso From Hell tickets and tour dates for 2016.
+description: Songkick - coffee to go ?
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-06-27-espresso-from-hell.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -40,4 +38,5 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Buy tickets for an upcoming Espresso From Hell concert near you. List of all Espresso From Hell tickets and tour dates for 2016.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15d14fd7-e927-485d-b105-52a9f9a22e8a.jpg)
+Songkick - coffee to go ?
+![Espresso From Hell tour dates. Click for details.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15d14fd7-e927-485d-b105-52a9f9a22e8a.jpg)
