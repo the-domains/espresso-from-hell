@@ -1,20 +1,4 @@
-name: Espresso From Hell
-favicon: null
-layout_spectrum: 0.35883
 typography_spectrum: 0.28167
-title: Espresso From Hell - electro-jazz duo from Switzerland
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-58965710-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ece6cd'
@@ -26,4 +10,25 @@ color:
   lightness: 0.5625
   saturation: 0.5
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.35883
+analytics:
+  google: UA-58965710-1
+  facebook: null
+  twitter: null
+author:
+  name: Pierre Sottas
+  email: pierre.sottas@cheesecom.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cee599f1-9b32-48a3-ac39-d11b72deff33.jpg
+name: Espresso From Hell
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Espresso From Hell - electro-jazz duo from Switzerland
 purpose: []
