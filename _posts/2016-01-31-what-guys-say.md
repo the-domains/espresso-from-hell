@@ -1,20 +1,21 @@
 ---
-datePublished: '2016-06-27T19:27:13.007Z'
+datePublished: '2016-08-16T21:01:15.713Z'
 sourcePath: _posts/2016-01-31-what-guys-say.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-27T19:27:08.579Z'
+dateModified: '2016-08-16T21:01:15.128Z'
 title: What guys say
-publisher: null
+publisher: {}
 description: >-
   Fantastic playlist guys...such a fresh and vibrant re-imagining of such
   classic tunes..particularly loving how stripped-back and graceful you perform
   the Lana del Ray track....just a gorgeous version!
 inLanguage: null
 inNav: true
+via: {}
 starred: false
 url: what-guys-say/index.html
 _type: Article
