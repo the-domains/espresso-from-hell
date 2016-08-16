@@ -29,6 +29,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: The band
+    id: fa1dda74-fde8-4b63-bfc9-3e0b1f340a72
+    type: content
 favicon: null
 title: Espresso From Hell - electro-jazz duo from Switzerland
 purpose: []
