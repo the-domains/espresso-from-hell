@@ -4,7 +4,7 @@
         <description><![CDATA[Espresso From Hell - electro-jazz duo from Switzerland]]></description>
         <link>http://espressofromhell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 21:01:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Aug 2016 21:02:29 GMT</lastBuildDate>
         <atom:link href="http://espressofromhell.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What guys say]]></title>
@@ -40,13 +40,6 @@
             <link>https://www.youtube.com/watch?v=okhyqqYWWMQ&amp;feature=youtu.be</link>
             <guid isPermaLink="false">a862985a-6f7d-4444-b1d4-1d8c487ee38b</guid>
             <pubDate>Mon, 27 Jun 2016 08:23:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Presskit]]></title>
-            <description><![CDATA[<article><h1>Presskit</h1><p>Get our presskit by clicking on the image</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ad5fbb5e98894d4728e95eeac3da81b74d47293.jpg"></article>]]></description>
-            <link>http://booking.cheesecom.com/efh/presskit.html</link>
-            <guid isPermaLink="false">26757e8e-01db-40f2-8dae-d1d8c0fc215b</guid>
-            <pubDate>Thu, 23 Jun 2016 08:58:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
