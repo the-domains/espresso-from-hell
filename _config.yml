@@ -36,6 +36,9 @@ navigation:
   - name: The band
     id: fa1dda74-fde8-4b63-bfc9-3e0b1f340a72
     type: content
+  - name: What guys say
+    id: f6747690-a48e-4ef4-8832-e3156fb4feff
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e4f9ca4-6439-4b10-87ef-a648cf5f670f.jpg
 title: Espresso From Hell
