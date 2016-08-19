@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-16T21:01:06.258Z'
+datePublished: '2016-08-19T16:33:11.337Z'
 sourcePath: _posts/2015-12-24-espresso-the-band.md
 inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-16T21:01:05.524Z'
+dateModified: '2016-08-19T16:33:10.756Z'
 title: The band
 publisher: {}
 description: >-
