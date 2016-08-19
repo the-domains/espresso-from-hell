@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-27T10:19:21.639Z'
+datePublished: '2016-08-19T15:05:53.626Z'
 sourcePath: _posts/2016-06-27-espressounds-from-hell.md
 isBasedOnUrl: 'https://soundcloud.com/espressofromhell'
 keywords: []
 related: []
 author: []
-dateModified: '2016-06-27T10:19:18.197Z'
+dateModified: '2016-08-19T15:04:10.075Z'
 title: Espressounds From Hell
 app_links:
   - type: ios
@@ -44,12 +44,9 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
+publisher: {}
 description: Here you can listen our latest release. What else ?
+via: {}
 starred: false
 inFeed: true
 hasPage: false
@@ -62,7 +59,7 @@ _type: AudioObject
 
 Here you can listen our latest release. What else ?
 
-Ah, yes, maybe buy it here : http://espressofromhell.bandcamp.com
+Ah, yes, maybe buy it here : [http://espressofromhell.bandcamp.com][0]
 
 Track listing
 
@@ -73,3 +70,5 @@ Track listing
 5\. Everybody's Gotta Learn Sometimes  
 6\. Afro Blue  
 7\. Teardrop
+
+[0]: http://espressofromhell.bandcamp.com/ "bandcamp"
