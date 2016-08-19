@@ -22,8 +22,7 @@ analytics:
 author:
   name: Pierre Sottas
   email: pierre.sottas@cheesecom.com
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7399f78d-c1f1-421a-998e-1513fd50908a.jpg
+logo: null
 name: Espresso From Hell
 cta:
   domain: null
