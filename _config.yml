@@ -30,9 +30,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: What guys say
-    id: f6747690-a48e-4ef4-8832-e3156fb4feff
-    type: content
   - name: Contact
     id: 8bc87754-9321-465b-a461-5509dab72181
     type: content
