@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Espresso From Hell]]></title>
+        <description><![CDATA[Espresso From Hell]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Aug 2016 18:25:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Afro Blue]]></title>
+            <description><![CDATA[<article><h1>Afro Blue</h1><p>Afro Blue music by Mongo Santamaria, words by Oscar Brown Jr. arranged by Espresso From Hell</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/210ab77e7f4d9e666922c700ec325b17/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FokhyqqYWWMQ%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=okhyqqYWWMQ&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">a862985a-6f7d-4444-b1d4-1d8c487ee38b</guid>
+            <pubDate>Sun, 21 Aug 2016 18:25:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
