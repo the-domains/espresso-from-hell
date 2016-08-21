@@ -31,9 +31,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: The band
-    id: fa1dda74-fde8-4b63-bfc9-3e0b1f340a72
-    type: content
   - name: What guys say
     id: f6747690-a48e-4ef4-8832-e3156fb4feff
     type: content
