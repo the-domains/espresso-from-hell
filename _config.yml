@@ -1,7 +1,7 @@
 name: Espresso From Hell
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e4f9ca4-6439-4b10-87ef-a648cf5f670f.jpg
-layout_spectrum: 1
+layout_spectrum: 0.82197
 typography_spectrum: 0.23446
 title: Espresso From Hell - Electro-jazz from Switzerland
 author:
@@ -42,8 +42,8 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
-  brandStrength: 0.8279940381180495
-  lightness: 0.5625
-  saturation: 0.25
+  brandStrength: 0.875
+  lightness: 0.375
+  saturation: 0.3125
   rhythmicContrast: 0.25
 purpose: []
