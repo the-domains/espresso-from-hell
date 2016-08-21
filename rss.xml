@@ -4,7 +4,7 @@
         <description><![CDATA[Espresso From Hell]]></description>
         <link>http://espressofromhell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 21:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 21:08:48 GMT</lastBuildDate>
         <atom:link href="http://espressofromhell.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Coffee to go ?]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.songkick.com/artists/8480653-espresso-from-hell</link>
             <guid isPermaLink="false">7fa6bab0-5c55-4559-b506-d6d24cd80fe1</guid>
             <pubDate>Sat, 20 Aug 2016 21:07:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Eleanor Rigby]]></title>
-            <description><![CDATA[<article><h1>Eleanor Rigby</h1><p>Eleanor Rigby words and music by John Lennon and Paul McCartney arranged by Espresso From Hell</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6aa7cf9e6d652a47e751b5e7be6bc0366e68861.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=TD6kA3i6wQw&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">449caf75-1fc3-4ce5-a7a8-f642839af5f7</guid>
-            <pubDate>Sat, 20 Aug 2016 20:37:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
