@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-21T18:25:40.591Z'
+datePublished: '2016-08-21T19:32:29.485Z'
 sourcePath: _posts/2016-01-31-what-guys-say.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-08-21T18:24:23.783Z'
+dateModified: '2016-08-21T19:32:28.913Z'
 title: What guys say
 publisher: {}
 description: >-
