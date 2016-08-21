@@ -34,6 +34,9 @@ navigation:
   - name: The Band
     id: fa1dda74-fde8-4b63-bfc9-3e0b1f340a72
     type: content
+  - name: Contact
+    id: 8bc87754-9321-465b-a461-5509dab72181
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e4f9ca4-6439-4b10-87ef-a648cf5f670f.jpg
 title: Espresso From Hell
