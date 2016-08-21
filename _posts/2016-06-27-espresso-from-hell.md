@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T20:07:17.322Z'
+datePublished: '2016-08-20T20:07:19.565Z'
 sourcePath: _posts/2016-06-27-espresso-from-hell.md
 inFeed: true
 isBasedOnUrl: 'https://www.songkick.com/artists/8480653-espresso-from-hell'
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-20T20:07:05.192Z'
+dateModified: '2016-08-20T20:07:19.139Z'
 title: Coffee to go ?
 app_links:
   - url: 'songkick://artists/8480653-espresso-from-hell'
@@ -37,6 +37,6 @@ _type: MediaObject
 
 ---
 # Coffee to go ?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb6ff7f4-be2f-4426-9e80-095d7dafa8d7.png)
+![Songkick - coffee to go ? Espresso From Hell tour dates. Click for details.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb6ff7f4-be2f-4426-9e80-095d7dafa8d7.png)
 
 Espresso From Hell tour dates. Click for details.
