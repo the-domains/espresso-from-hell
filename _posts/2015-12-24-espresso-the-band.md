@@ -6,9 +6,9 @@ inLanguage: null
 keywords: []
 description: >-
   Bass and Voice encounter, spiced up with some loopers flavour, Espresso From
-  Hell plays jazz and pop songs in it's own original way.
-datePublished: '2016-08-20T19:46:55.775Z'
-dateModified: '2016-08-20T19:46:40.658Z'
+  Hell plays jazz and pop songs in it's own original ways
+datePublished: '2016-08-20T20:07:28.156Z'
+dateModified: '2016-08-20T19:46:58.041Z'
 sourcePath: _posts/2015-12-24-espresso-the-band.md
 author: []
 title: The band
@@ -27,7 +27,7 @@ _type: WebPage
 # The Band
 ![The band](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31cded1c41ff05f9ac59144f5b479ffe886c72af.jpg)
 
-Bass and Voice encounter, spiced up with some loopers flavour, Espresso From Hell plays jazz and pop songs in it's own original way.
+Bass and Voice encounter, spiced up with some loopers flavour, Espresso From Hell plays jazz and pop songs in it's own original ways
 
 Everything started some years ago when Brigitte and Pierre, long time friends, decided to play in duo "just for fun". It went so well that despite the lack of free time it leaded to an album in 2015\.  
 What else ?
