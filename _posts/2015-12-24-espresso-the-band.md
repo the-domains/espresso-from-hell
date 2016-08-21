@@ -1,31 +1,27 @@
 ---
+datePublished: '2016-08-21T09:14:47.126Z'
+sourcePath: _posts/2015-12-24-espresso-the-band.md
 inFeed: false
+authors: []
 hasPage: true
-inNav: true
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-21T09:14:36.614Z'
+title: The Band
+publisher: {}
 description: >-
   Bass and Voice encounter, spiced up with some loopers flavour, Espresso From
   Hell plays jazz and pop songs in it's own original ways
-datePublished: '2016-08-20T20:07:28.156Z'
-dateModified: '2016-08-20T19:46:58.041Z'
-sourcePath: _posts/2015-12-24-espresso-the-band.md
-author: []
-title: The band
-via: {}
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+inLanguage: null
+inNav: true
 starred: false
 url: espresso-the-band/index.html
 _type: WebPage
 
 ---
 # The Band
-![The band](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31cded1c41ff05f9ac59144f5b479ffe886c72af.jpg)
+![The Band](https://s3-us-west-2.amazonaws.com/the-grid-img/p/31cded1c41ff05f9ac59144f5b479ffe886c72af.jpg)
 
 Bass and Voice encounter, spiced up with some loopers flavour, Espresso From Hell plays jazz and pop songs in it's own original ways
 
