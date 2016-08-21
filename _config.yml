@@ -1,6 +1,5 @@
-typography_spectrum: 0.30546314432285726
-content_rating:
-  adult: false
+layout_spectrum: 0.40216882387176156
+typography_spectrum: 0.10359626566059887
 color:
   brandColors:
     - '#B9121B'
@@ -12,11 +11,12 @@ color:
   lightness: 0.8125
   saturation: 0.3125
   rhythmicContrast: 0.25
+content_rating:
+  adult: false
 opengraph:
   image: null
   type: ''
   appId: ''
-layout_spectrum: 0.49854
 analytics:
   google: UA-58965710-2
   facebook: null
