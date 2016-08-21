@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-21T09:16:57.038Z'
+datePublished: '2016-08-21T09:18:44.445Z'
 sourcePath: _posts/2016-06-27-espressounds-from-hell.md
 isBasedOnUrl: 'https://soundcloud.com/espressofromhell'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-21T09:15:36.899Z'
+dateModified: '2016-08-21T09:18:41.409Z'
 title: Espressounds From Hell
 app_links:
   - type: ios
@@ -46,7 +46,7 @@ app_links:
     namespace: google
     type: ios
 publisher: {}
-description: ''
+description: Here you can listen our latest release. What else ?
 starred: false
 inFeed: true
 hasPage: false
