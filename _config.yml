@@ -1,7 +1,7 @@
 name: Espresso From Hell
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e4f9ca4-6439-4b10-87ef-a648cf5f670f.jpg
-layout_spectrum: 0.81704
+layout_spectrum: 1
 typography_spectrum: 0.30546314432285726
 content_rating:
   adult: false
@@ -43,8 +43,8 @@ color:
     - '#F6E497'
     - '#FCFAE1'
     - '#BD8D46'
-  brandStrength: 0.75
-  lightness: 0.625
-  saturation: 0.25
-  rhythmicContrast: 0.75
+  brandStrength: 0.875
+  lightness: 0.9375
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
