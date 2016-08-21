@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-21T09:21:15.904Z'
+datePublished: '2016-08-21T09:21:19.652Z'
 sourcePath: _posts/2016-08-20-coffee-to-go.md
 isBasedOnUrl: 'http://www.songkick.com/artists/8480653-espresso-from-hell'
 author: []
 via: {}
-dateModified: '2016-08-21T09:20:54.775Z'
+dateModified: '2016-08-21T09:21:19.271Z'
 title: Coffee to go ?
 publisher: {}
 description: Click for tour dates!
@@ -20,4 +20,6 @@ _type: MediaObject
 
 Click for tour dates!
 
-We are currently looking for gigs. Feel free to contact us at booking@espressofromhell.com or on by phone on +41(0)76 679 70 35
+We are currently looking for gigs. Feel free to contact us at [booking@espressofromhell.com][0] or on by phone on +41(0)76 679 70 35 
+
+[0]: http://mailto:booking@espressofromhell.com/ "booking email"
