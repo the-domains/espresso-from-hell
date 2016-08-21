@@ -1,7 +1,9 @@
 ---
-datePublished: '2016-08-21T14:16:06.682Z'
-sourcePath: _posts/2016-08-21-coffee-to-go.md
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'http://www.songkick.com/artists/8480653-espresso-from-hell'
+inLanguage: en
 keywords:
   - ashburn
   - concerts
@@ -13,10 +15,15 @@ keywords:
   - caf
   - hell
   - avenue
+description: 'http://www.songkick.com/artists/8480653-espresso-from-hell '
+datePublished: '2016-08-21T14:19:31.584Z'
+dateModified: '2016-08-21T14:19:22.001Z'
+sourcePath: _posts/2016-08-21-coffee-to-go.md
 related: []
-author: []
+author:
+  - name: ''
+    url: ''
 via: {}
-dateModified: '2016-08-21T14:16:06.111Z'
 title: Coffee to go ?
 app_links:
   - url: 'songkick://artists/8480653-espresso-from-hell'
@@ -24,23 +31,21 @@ app_links:
     namespace: ai
     app_store_id: '438690886'
     app_name: Songkick Concerts
+authors: []
 publisher:
-  url: 'http://www.songkick.com'
   name: Songkick
-  favicon: 'http://assets.sk-static.com/images/favicon.ico'
   domain: www.songkick.com
-description: 'http://www.songkick.com/artists/8480653-espresso-from-hell '
-inLanguage: en
+  url: 'http://www.songkick.com/artists/8480653-espresso-from-hell'
+  favicon: 'http://assets.sk-static.com/images/favicon.ico'
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 # Coffee to go ?
 
-<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c01767f58ef2b9c543e051833401e15197e4b51.jpg" /><h1>Espresso From Hell</h1><p>Buy tickets for an upcoming Espresso From Hell concert near you. List of all Espresso From Hell tickets and tour dates for 2016.</p></article>
+<article style=""><h1>Espresso From Hell</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c01767f58ef2b9c543e051833401e15197e4b51.jpg" /></article>
 
-http://www.songkick.com/artists/8480653-espresso-from-hell
+[http://www.songkick.com/artists/8480653-espresso-from-hell ][0]
+
+[0]: http://www.songkick.com/artists/8480653-espresso-from-hell
