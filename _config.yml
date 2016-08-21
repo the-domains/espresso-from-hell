@@ -3,24 +3,6 @@ favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e4f9ca4-6439-4b10-87ef-a648cf5f670f.jpg
 layout_spectrum: 0.05567360948771238
 typography_spectrum: 0.0786796158645302
-cta: {}
-analytics:
-  google: UA-58965710-2
-opengraph:
-  type: ''
-  appId: ''
-color:
-  brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-  brandStrength: 0.8279940381180495
-  lightness: 0.8529976245481521
-  saturation: 0.7605673484504223
-  rhythmicContrast: 0.11492787254974246
-purpose: []
 title: Electro-jazz from Switzerland
 author:
   name: Pierre Sottas
@@ -41,3 +23,27 @@ navigation:
   - name: Presskit
     url: 'http://presskit.espressofromhell.com'
     type: external
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-58965710-2
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  brandStrength: 0.8279940381180495
+  lightness: 0.875
+  saturation: 0.25
+  rhythmicContrast: 0.25
+purpose: []
