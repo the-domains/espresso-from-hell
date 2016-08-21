@@ -15,9 +15,9 @@ keywords:
   - caf
   - hell
   - avenue
-description: 'http://www.songkick.com/artists/8480653-espresso-from-hell '
-datePublished: '2016-08-21T14:19:31.584Z'
-dateModified: '2016-08-21T14:19:22.001Z'
+description: ''
+datePublished: '2016-08-21T14:23:54.615Z'
+dateModified: '2016-08-21T14:23:42.322Z'
 sourcePath: _posts/2016-08-21-coffee-to-go.md
 related: []
 author:
@@ -32,20 +32,13 @@ app_links:
     app_store_id: '438690886'
     app_name: Songkick Concerts
 authors: []
-publisher:
-  name: Songkick
-  domain: www.songkick.com
-  url: 'http://www.songkick.com/artists/8480653-espresso-from-hell'
-  favicon: 'http://assets.sk-static.com/images/favicon.ico'
+publisher: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 # Coffee to go ?
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/75d7e314-3d44-4c95-bbcc-006acd5273ee.jpg)
 
-<article style=""><h1>Espresso From Hell</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5c01767f58ef2b9c543e051833401e15197e4b51.jpg" /></article>
-
-[http://www.songkick.com/artists/8480653-espresso-from-hell ][0]
-
-[0]: http://www.songkick.com/artists/8480653-espresso-from-hell
+Get our tour dates by clicking here.
