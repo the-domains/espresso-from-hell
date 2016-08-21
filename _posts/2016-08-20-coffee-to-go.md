@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-20T20:42:46.793Z'
+datePublished: '2016-08-20T20:46:08.642Z'
 sourcePath: _posts/2016-08-20-coffee-to-go.md
 isBasedOnUrl: 'http://www.songkick.com/artists/8480653-espresso-from-hell'
 author: []
 via: {}
-dateModified: '2016-08-20T20:42:32.461Z'
+dateModified: '2016-08-20T20:46:08.427Z'
 title: Coffee to go ?
 publisher: {}
 description: Click here for EHF tour dates
@@ -20,4 +20,4 @@ _type: MediaObject
 
 Click [here][0] for EHF tour dates
 
-[0]: http://www.songkick.com/artists/8480653-espresso-from-hell "new"
+[0]: http://www.songkick.com/artists/8480653-espresso-from-hell "Songkick"
