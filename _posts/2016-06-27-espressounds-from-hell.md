@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-21T21:26:13.831Z'
+datePublished: '2016-08-21T21:28:33.019Z'
 sourcePath: _posts/2016-06-27-espressounds-from-hell.md
 isBasedOnUrl: 'https://soundcloud.com/espressofromhell'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-08-21T21:26:03.419Z'
+dateModified: '2016-08-21T21:28:32.154Z'
 title: Espressounds From Hell
 app_links:
   - type: ios
@@ -55,6 +55,8 @@ _context: 'http://schema.org'
 _type: AudioObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/897eaf50-96da-4370-af85-c378c33d3d49.jpg)
+
 # Espressounds From Hell
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fusers%252F80441204%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fespressofromhell&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Favatars-000120468357-g04rcj-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
