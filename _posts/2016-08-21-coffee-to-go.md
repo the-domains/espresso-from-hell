@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T21:18:47.692Z'
+datePublished: '2016-08-21T21:22:14.574Z'
 sourcePath: _posts/2016-08-21-coffee-to-go.md
 inFeed: true
 isBasedOnUrl: ''
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T21:18:27.384Z'
+dateModified: '2016-08-21T21:22:14.005Z'
 title: Coffee to go ?
 publisher:
   name: Songkick - tour dates
@@ -29,7 +29,7 @@ _type: Blurb
 
 Get our [songkick][0] tour dates
 
-    <a href="http://www.songkick.com/artists/8480653" class="songkick-widget" data-theme="light" data-detect-style="true" data-background-color="transparent">Coffee to go ? EFH tour dates</a> <script src="//widget.songkick.com/widget.js"></script>
+    <p>on va bien voir si ça marche ou pas</p>
 
 
 
