@@ -2,10 +2,24 @@
     <channel>
         <title><![CDATA[Espresso From Hell]]></title>
         <description><![CDATA[Espresso From Hell]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://espressofromhell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 21:37:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 21 Aug 2016 21:37:55 GMT</lastBuildDate>
+        <atom:link href="http://espressofromhell.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Eleanor Rigby]]></title>
+            <description><![CDATA[<article><h1>Eleanor Rigby</h1><p>Eleanor Rigby words and music by John Lennon and Paul McCartney arranged by Espresso From Hell.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6aa7cf9e6d652a47e751b5e7be6bc0366e68861.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=TD6kA3i6wQw&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">449caf75-1fc3-4ce5-a7a8-f642839af5f7</guid>
+            <pubDate>Sun, 21 Aug 2016 21:37:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What guys say]]></title>
+            <description><![CDATA[<article><h1>What guys say</h1><p>Fantastic playlist guys...such a fresh and vibrant re-imagining of such classic tunes..particularly loving how stripped-back and graceful you perform the Lana del Ray track....just a gorgeous version!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9792198b-2dff-44ae-b050-fe96066e337c.jpg"></article>]]></description>
+            <link>http://espressofromhell.com/what-guys-say/index.html</link>
+            <guid isPermaLink="false">f6747690-a48e-4ef4-8832-e3156fb4feff</guid>
+            <pubDate>Sun, 21 Aug 2016 21:37:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afro Blue]]></title>
             <description><![CDATA[<article><h1>Afro Blue</h1><p>Afro Blue music by Mongo Santamaria, words by Oscar Brown Jr. arranged by Espresso From Hell</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/210ab77e7f4d9e666922c700ec325b17/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FokhyqqYWWMQ%2Fmaxresdefault.jpg"></article>]]></description>
