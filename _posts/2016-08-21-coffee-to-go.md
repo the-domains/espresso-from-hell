@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T21:17:09.967Z'
+datePublished: '2016-08-21T21:18:47.692Z'
 sourcePath: _posts/2016-08-21-coffee-to-go.md
 inFeed: true
 isBasedOnUrl: ''
@@ -10,7 +10,7 @@ author:
   - name: ''
     url: ''
 via: {}
-dateModified: '2016-08-21T21:17:06.009Z'
+dateModified: '2016-08-21T21:18:27.384Z'
 title: Coffee to go ?
 publisher:
   name: Songkick - tour dates
