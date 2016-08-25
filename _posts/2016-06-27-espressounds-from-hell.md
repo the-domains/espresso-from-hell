@@ -1,18 +1,16 @@
 ---
-datePublished: '2016-08-25T19:19:26.217Z'
+datePublished: '2016-08-25T19:19:38.277Z'
 sourcePath: _posts/2016-06-27-espressounds-from-hell.md
+inFeed: true
 isBasedOnUrl: 'https://soundcloud.com/espressofromhell'
 author: []
 via: {}
-dateModified: '2016-08-25T19:19:22.786Z'
+dateModified: '2016-08-25T19:19:34.463Z'
 title: Espressounds From Hell
 id: 16871823-a605-4ab5-81b5-218703c0f111
 publisher: {}
 description: Here you can listen our latest release. What else ?
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
 _type: MediaObject
 
 ---
