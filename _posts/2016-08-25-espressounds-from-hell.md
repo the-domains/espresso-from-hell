@@ -1,63 +1,19 @@
 ---
-datePublished: '2016-08-25T19:28:45.335Z'
-inFeed: true
+datePublished: '2016-08-25T19:32:13.572Z'
 isBasedOnUrl: 'https://soundcloud.com/espressofromhell/sets/espressofromhell'
-keywords: []
-related: []
-author:
-  - name: espressofromhell
-    url: 'http://soundcloud.com/espressofromhell'
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-08-25T19:26:19.069Z'
+dateModified: '2016-08-25T19:32:11.107Z'
 title: Espressounds From Hell
-app_links:
-  - type: ios
-    namespace: ai
-    app_name: SoundCloud
-    app_store_id: '336353151'
-  - should_fallback: 'false'
-    app_name: SoundCloud
-    package: com.soundcloud.android
-    url: 'soundcloud://playlists:57345339'
-    namespace: ai
-    type: ios
-  - url: 'soundcloud://playlists:57345339'
-    type: android
-    namespace: ai
-  - url: 'soundcloud://playlists:57345339'
-    namespace: twitter
-    type: ipad
-    name: SoundCloud
-    id: '336353151'
-  - url: 'soundcloud://playlists:57345339'
-    namespace: twitter
-    type: iphone
-    name: SoundCloud
-    id: '336353151'
-  - url: 'soundcloud://playlists:57345339'
-    namespace: twitter
-    type: googleplay
-    name: SoundCloud
-    id: com.soundcloud.android
-  - path: 'soundcloud/playlists:57345339'
-    package: com.soundcloud.android
-    namespace: google
-    type: android
-  - path: 'soundcloud/playlists:57345339'
-    package: '336353151'
-    namespace: google
-    type: ios
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
+id: 6fb65884-1096-45b9-b56d-b52fca19b541
+publisher: {}
 description: Here you can listen our latest release. What else ?
 starred: false
 sourcePath: _posts/2016-08-25-espressounds-from-hell.md
-_context: 'http://schema.org'
-_type: AudioObject
+inFeed: true
+hasPage: false
+inNav: false
+_type: MediaObject
 
 ---
 # Espressounds From Hell
