@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-25T19:15:54.270Z'
+datePublished: '2016-08-25T19:19:26.217Z'
 sourcePath: _posts/2016-06-27-espressounds-from-hell.md
 isBasedOnUrl: 'https://soundcloud.com/espressofromhell'
 author: []
 via: {}
-dateModified: '2016-08-25T19:15:39.902Z'
+dateModified: '2016-08-25T19:19:22.786Z'
 title: Espressounds From Hell
 id: 16871823-a605-4ab5-81b5-218703c0f111
 publisher: {}
