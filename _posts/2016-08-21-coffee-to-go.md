@@ -1,17 +1,13 @@
 ---
-datePublished: '2016-08-30T10:32:56.446Z'
+datePublished: '2016-08-30T10:32:58.616Z'
 sourcePath: _posts/2016-08-21-coffee-to-go.md
 isBasedOnUrl: 'http://www.songkick.com/artists/8480653-espresso-from-hell'
 author: []
 via: {}
-dateModified: '2016-08-30T10:32:51.748Z'
+dateModified: '2016-08-30T10:32:57.705Z'
 title: Coffee to go ?
 id: f85fa483-7705-4283-a07f-5c6d903d4d9d
-publisher:
-  name: Songkick - tour dates
-  domain: null
-  url: 'http://www.songkick.com/artists/8480653-espresso-from-hell'
-  favicon: null
+publisher: {}
 description: Get our songkick tour dates.
 starred: false
 inFeed: true
