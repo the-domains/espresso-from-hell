@@ -1,5 +1,6 @@
-layout_spectrum: 0.2196034938097
-typography_spectrum: 0.24676507315598428
+typography_spectrum: 0.37371243443340063
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B9121B'
@@ -11,12 +12,12 @@ color:
   lightness: 0.8125
   saturation: 0.3125
   rhythmicContrast: 0.25
-content_rating:
-  adult: false
+github: true
 opengraph:
   image: null
   type: ''
   appId: ''
+layout_spectrum: 0.3031243160367012
 analytics:
   google: UA-58965710-2
   facebook: null
@@ -25,6 +26,8 @@ author:
   name: Pierre Sottas
   url: ''
   email: pierre.sottas@cheesecom.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7db79d5-805b-4626-bd56-09aca8133347.jpg
 name: Espresso From Hell
 cta:
   domain: null
@@ -34,11 +37,11 @@ navigation:
   - name: The Band
     id: fa1dda74-fde8-4b63-bfc9-3e0b1f340a72
     type: content
-  - name: Contact
-    id: 8bc87754-9321-465b-a461-5509dab72181
-    type: content
   - name: What guys say
     id: f6747690-a48e-4ef4-8832-e3156fb4feff
+    type: content
+  - name: Contact
+    id: 8bc87754-9321-465b-a461-5509dab72181
     type: content
   - name: Presskit
     url: 'http://presskit.espressofromhell.com'
@@ -46,5 +49,9 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e4f9ca4-6439-4b10-87ef-a648cf5f670f.jpg
 title: Espresso From Hell
+content: []
 description: Electro-Jazz from Switzerland
-purpose: []
+purpose:
+  - type: external
+    url: 'http://presskit.espressofromhell.com'
+    label: Presskit
