@@ -1,22 +1,17 @@
 ---
-datePublished: '2016-08-21T21:37:39.568Z'
+datePublished: '2017-01-11T13:17:25.034Z'
 sourcePath: _posts/2016-01-31-what-guys-say.md
 inFeed: true
-authors: []
 hasPage: true
-keywords: []
 author: []
-dateModified: '2016-08-21T21:36:48.845Z'
-title: What guys say
-publisher: {}
-description: >-
-  Fantastic playlist guys...such a fresh and vibrant re-imagining of such
-  classic tunes..particularly loving how stripped-back and graceful you perform
-  the Lana del Ray track....just a gorgeous version!
-inLanguage: null
-inNav: true
 via: {}
+dateModified: '2017-01-11T13:16:09.523Z'
+title: What guys say
+id: f6747690-a48e-4ef4-8832-e3156fb4feff
+publisher: {}
+description: ''
 starred: false
+datePublishedOriginal: '2016-11-22T07:30:21.196Z'
 url: what-guys-say/index.html
 _type: Article
 
@@ -25,10 +20,10 @@ _type: Article
 
 > Fantastic playlist guys...such a fresh and vibrant re-imagining of such classic tunes..particularly loving how stripped-back and graceful you perform the Lana del Ray track....just a gorgeous version!
 
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2fca6cbd-98f3-407d-aa2c-5040f6ed52b3.jpg)
+
+---
+
 > Eleanor Rigby - great work! Best wishes, Egon Erger
 
 > One word: Yeaaaaah! Best wishes from Cologne -- Versu
-
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9792198b-2dff-44ae-b050-fe96066e337c.jpg)
-
->
