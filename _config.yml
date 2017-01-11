@@ -55,3 +55,6 @@ purpose:
   - type: external
     url: 'http://presskit.espressofromhell.com'
     label: Presskit
+  - type: contact
+    url: 'mailto:booking@espressofromhell.com'
+    label: Book us!
