@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-21T21:37:54.158Z'
+datePublished: '2017-01-11T13:17:40.352Z'
 sourcePath: _posts/2015-12-25-eleanor-rigby.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=TD6kA3i6wQw&feature=youtu.be'
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-21T21:36:56.057Z'
+dateModified: '2017-01-11T13:16:09.523Z'
 title: Eleanor Rigby
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=TD6kA3i6wQw&feature=applinks'
@@ -37,8 +37,8 @@ description: >-
   Eleanor Rigby words and music by John Lennon and Paul McCartney arranged by
   Espresso From Hell.
 inLanguage: en
-inNav: false
 starred: false
+datePublishedOriginal: '2016-08-21T21:37:54.158Z'
 _context: 'http://schema.org'
 _type: VideoObject
 
