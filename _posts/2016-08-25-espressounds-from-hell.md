@@ -1,8 +1,8 @@
 ---
 isBasedOnUrl: 'https://soundcloud.com/espressofromhell/sets/espressofromhell'
 title: Espressounds From Hell
-datePublished: '2017-01-11T08:48:40.796Z'
-dateModified: '2017-01-11T08:48:40.148Z'
+datePublished: '2017-01-11T13:17:22.071Z'
+dateModified: '2017-01-11T13:16:09.523Z'
 publisher: {}
 author: []
 description: Here you can listen our latest release. What else ?
