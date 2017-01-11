@@ -4,14 +4,29 @@
         <description><![CDATA[Espresso From Hell]]></description>
         <link>http://espressofromhell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 10:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2017 09:04:49 GMT</lastBuildDate>
         <atom:link href="http://espressofromhell.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 11 Jan 2017 09:04:48 GMT</pubDate>
         <item>
             <title><![CDATA[Espressounds From Hell]]></title>
             <description><![CDATA[<article><h1>Espressounds From Hell</h1><p>Here you can listen our latest release. What else ?</p></article>]]></description>
             <link>https://soundcloud.com/espressofromhell/sets/espressofromhell</link>
             <guid isPermaLink="false">6fb65884-1096-45b9-b56d-b52fca19b541</guid>
-            <pubDate>Thu, 25 Aug 2016 19:32:15 GMT</pubDate>
+            <pubDate>Wed, 11 Jan 2017 08:48:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What guys say]]></title>
+            <description><![CDATA[<blockquote><p>Fantastic playlist guys...such a fresh and vibrant re-imagining of such classic tunes..particularly loving how stripped-back and graceful you perform the Lana del Ray track....just a gorgeous version!</p></blockquote>]]></description>
+            <link>http://espressofromhell.com/what-guys-say/index.html</link>
+            <guid isPermaLink="false">f6747690-a48e-4ef4-8832-e3156fb4feff</guid>
+            <pubDate>Tue, 22 Nov 2016 07:30:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article></article>]]></description>
+            <link>https://bandcamp.com/EmbeddedPlayer/album=1528106459/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/</link>
+            <guid isPermaLink="false">aee5cabc-199c-4b91-a2d9-ab0f88662376</guid>
+            <pubDate>Wed, 11 Jan 2017 09:04:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Eleanor Rigby]]></title>
@@ -19,13 +34,6 @@
             <link>https://www.youtube.com/watch?v=TD6kA3i6wQw&amp;feature=youtu.be</link>
             <guid isPermaLink="false">449caf75-1fc3-4ce5-a7a8-f642839af5f7</guid>
             <pubDate>Sun, 21 Aug 2016 21:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What guys say]]></title>
-            <description><![CDATA[<article><h1>What guys say</h1><p>Fantastic playlist guys...such a fresh and vibrant re-imagining of such classic tunes..particularly loving how stripped-back and graceful you perform the Lana del Ray track....just a gorgeous version!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9792198b-2dff-44ae-b050-fe96066e337c.jpg"></article>]]></description>
-            <link>http://espressofromhell.com/what-guys-say/index.html</link>
-            <guid isPermaLink="false">f6747690-a48e-4ef4-8832-e3156fb4feff</guid>
-            <pubDate>Sun, 21 Aug 2016 21:37:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Afro Blue]]></title>
@@ -36,10 +44,10 @@
         </item>
         <item>
             <title><![CDATA[Coffee to go ?]]></title>
-            <description><![CDATA[<article><h1>Coffee to go ?</h1><p>Get our songkick tour dates.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aefe127b-4303-46d2-a93a-3cdd7de57db0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Coffee to go ?</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b9ca5f8-7680-4463-892a-f78b3e7dcf79.jpg"></article>]]></description>
             <link>http://www.songkick.com/artists/8480653-espresso-from-hell</link>
             <guid isPermaLink="false">f85fa483-7705-4283-a07f-5c6d903d4d9d</guid>
-            <pubDate>Tue, 30 Aug 2016 10:32:58 GMT</pubDate>
+            <pubDate>Mon, 12 Sep 2016 09:20:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
