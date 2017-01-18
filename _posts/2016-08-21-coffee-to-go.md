@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-11T13:31:10.919Z'
+datePublished: '2017-01-18T19:47:41.061Z'
 sourcePath: _posts/2016-08-21-coffee-to-go.md
 inFeed: true
 isBasedOnUrl: 'http://www.songkick.com/artists/8480653-espresso-from-hell'
 author: []
 via: {}
-dateModified: '2017-01-11T13:31:10.169Z'
+dateModified: '2017-01-18T19:47:39.886Z'
 title: Coffee to go ?
 publisher: {}
 description: ''
