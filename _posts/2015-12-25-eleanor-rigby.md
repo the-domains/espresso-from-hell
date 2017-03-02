@@ -1,5 +1,5 @@
 ---
-datePublished: '2017-01-11T13:17:40.352Z'
+datePublished: '2017-03-02T10:24:16.179Z'
 sourcePath: _posts/2015-12-25-eleanor-rigby.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=TD6kA3i6wQw&feature=youtu.be'
@@ -19,7 +19,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2017-01-11T13:16:09.523Z'
+dateModified: '2017-03-02T10:24:15.697Z'
 title: Eleanor Rigby
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=TD6kA3i6wQw&feature=applinks'
