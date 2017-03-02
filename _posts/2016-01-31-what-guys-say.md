@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-22T15:12:02.151Z'
+datePublished: '2017-03-02T10:24:16.181Z'
 sourcePath: _posts/2016-01-31-what-guys-say.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-01-22T15:12:01.564Z'
+dateModified: '2017-03-02T10:24:15.697Z'
 title: What guys say
 id: f6747690-a48e-4ef4-8832-e3156fb4feff
 publisher: {}
