@@ -1,10 +1,17 @@
 ---
 isBasedOnUrl: 'https://soundcloud.com/espressofromhell/sets/espressofromhell'
 title: Espressounds From Hell
-datePublished: '2017-01-11T13:17:22.071Z'
-dateModified: '2017-01-11T13:16:09.523Z'
-publisher: {}
-author: []
+datePublished: '2017-03-02T09:11:54.458Z'
+dateModified: '2017-03-02T09:11:53.799Z'
+publisher:
+  url: 'http://soundcloud.com'
+  name: SoundCloud
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+  domain: soundcloud.com
+author:
+  - name: espressofromhell
+    url: 'http://soundcloud.com/espressofromhell'
+    avatar: {}
 description: Here you can listen our latest release. What else ?
 via: {}
 sourcePath: _posts/2016-08-25-espressounds-from-hell.md
