@@ -4,9 +4,9 @@
         <description><![CDATA[Espresso From Hell]]></description>
         <link>http://espressofromhell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Mar 2017 09:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2017 09:32:12 GMT</lastBuildDate>
         <atom:link href="http://espressofromhell.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 02 Mar 2017 09:11:55 GMT</pubDate>
+        <pubDate>Thu, 02 Mar 2017 09:32:11 GMT</pubDate>
         <item>
             <title><![CDATA[Espressounds From Hell]]></title>
             <description><![CDATA[<h1>Espressounds From Hell</h1>,<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fplaylists%252F57345339%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fespressofromhell%2Fsets%2Fespressofromhell&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000100741234-utpvqx-t500x500.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen></iframe>,<p>Here you can listen our latest release. What else ?</p>,<p>Track listing</p>,<ol><li>Eleanor Rigby</li><li>Another Part Of Me</li><li>King Of Pain</li><li>Video Games</li><li>Everybody’s Gotta Learn Sometimes</li><li>Afro Blue</li><li>Teardrop</li></ol>,<a href="http://espressofromhell.bandcamp.com/" data-role="cta">Buy it here!</a>]]></description>
@@ -41,6 +41,13 @@
             <link>http://www.songkick.com/artists/8480653-espresso-from-hell</link>
             <guid isPermaLink="false">f85fa483-7705-4283-a07f-5c6d903d4d9d</guid>
             <pubDate>Mon, 12 Sep 2016 09:20:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Espresso From Hell by espressofromhell]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fplaylists%252F57345339%26show_artwork%3Dtrue&url=https%3A%2F%2Fsoundcloud.com%2Fespressofromhell%2Fsets%2Fespressofromhell&image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000100741234-utpvqx-t500x500.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://soundcloud.com/espressofromhell/sets/espressofromhell</link>
+            <guid isPermaLink="false">06787867-5fba-4bd9-b8a0-a33121c48c01</guid>
+            <pubDate>Thu, 02 Mar 2017 09:32:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
