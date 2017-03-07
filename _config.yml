@@ -46,6 +46,9 @@ navigation:
   - name: Presskit
     url: 'http://presskit.espressofromhell.com'
     type: external
+  - name: Pictures
+    id: 0bed4426-3ddb-467a-b543-49e9950a89fe
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e4f9ca4-6439-4b10-87ef-a648cf5f670f.jpg
 title: Espresso From Hell
