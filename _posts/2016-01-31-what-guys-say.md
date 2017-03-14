@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-03-07T05:49:12.331Z'
+datePublished: '2017-03-14T15:24:04.397Z'
 sourcePath: _posts/2016-01-31-what-guys-say.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2017-03-07T05:49:10.459Z'
+dateModified: '2017-03-14T15:24:03.750Z'
 title: What guys say
 id: f6747690-a48e-4ef4-8832-e3156fb4feff
 publisher: {}
@@ -29,3 +29,7 @@ _type: Article
 > Eleanor Rigby - great work! Best wishes, Egon Erger
 
 > One word: Yeaaaaah! Best wishes from Cologne -- Versu
+
+> "Eleanor Rigby" totally creative version is awesome. LA best wishes.
+
+> Eleanor Rigby is amazing! Incredibly rich musically!
