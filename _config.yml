@@ -1,5 +1,6 @@
-layout_spectrum: 0.03470736147928061
 typography_spectrum: 0.06547506568473901
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B9121B'
@@ -11,13 +12,12 @@ color:
   lightness: 0.3003560107607062
   saturation: 0.05953358436685683
   rhythmicContrast: 0.9945662424642371
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: null
   type: ''
   appId: ''
+layout_spectrum: 0.03470736147928061
 analytics:
   google: UA-58965710-2
   facebook: null
@@ -49,6 +49,9 @@ navigation:
   - name: Pictures
     id: 0bed4426-3ddb-467a-b543-49e9950a89fe
     type: content
+  - name: Bandcamp
+    url: 'http://espressofromhell.bandcamp.com'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e4f9ca4-6439-4b10-87ef-a648cf5f670f.jpg
 title: Espresso From Hell
